@@ -1,0 +1,8 @@
+compile
+----------------
+cl.exe /c /EHsc program.cpp
+
+
+link
+----------------
+link.exe program.obj
